@@ -1,0 +1,33 @@
+_repo: Peggy-O-Neal_53992
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hutt, Henry
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '8076'
+    url: http://www.gutenberg.org/2009/agents/8076
+creator:
+  author:
+    agent_name: Lewis, Alfred Henry
+    alias: Quin, Dan
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '1257'
+    url: http://www.gutenberg.org/2009/agents/1257
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+description: ''
+gutenberg_issued: '2017-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Eaton, Peggy, 1799?-1879 -- Fiction'
+- GITenberg
+title: Peggy O'Neal
+url: http://www.gutenberg.org/ebooks/53992
